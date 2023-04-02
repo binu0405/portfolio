@@ -43,6 +43,7 @@
 - Used Git for version control and deployed the site using GitHub Pages.
 - Responsive Web Design 
 - React Js
+- Hosted on [Netlify](https://binal-portfolio.netlify.app/) 
 
 ## [ChatGPT Using MERN Stack]() 🔗
 - Work in Progress
