@@ -1,4 +1,4 @@
-# 👨‍🎓 Education
+# 👩‍🎓 Education
 
 `2020-2024` [Saffrony Institute Of Technology](https://www.saffrony.ac.in/)
 - **B.E(Bachelors in Engineering)** in Information Technology
