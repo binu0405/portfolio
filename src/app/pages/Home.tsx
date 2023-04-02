@@ -52,7 +52,7 @@ export default function Home({ setSelectedIndex }: Props) {
               justifyContent={{ xs: "center", sm: "flex-start" }}
             >
               <Typography variant="subtitle1" gutterBottom>
-                Actively contributes to group projects and motivates members to achieve common targets. An inquisitive individual who is keen to continue learning and expanding their horizons of knowledge. Seeks a flexible and innovative environment that inspires creativity and encourages thinking outside the box to achieve a fruitful output.
+                Actively contributes to group project to achieve common targets.
               </Typography>
             </Grid>
             <Grid
