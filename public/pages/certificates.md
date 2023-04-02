@@ -7,6 +7,13 @@
 - Total Hours:- 3 hours
 - Google Drive Link [Drive](https://drive.google.com/file/d/1eXGdjgBqxL-nc5Txhji4Wi4TyTowJLKA/view?usp=share_link)
 
+
+## [Learn JavaScript - For Beginners](https://www.udemy.com/course/learn-javascript-course/) 🔗
+- Course:-Udemy
+- Complition Date:-21 February 2023
+- Total Hours:- 1.5 Hour
+- Google Drive Link [Drive](https://drive.google.com/file/d/1eKoKouFTj8X7wizQJuwTDJ30kQcPKSgY/view?usp=share_link)
+
 ## [Javascript full course by Bro code](https://drive.google.com/file/d/1ezZw8lP1l7TIpunrZ1Z0cE8WVVD0Y1e9/view?usp=share_link) 🔗
 - Course:-Cursa (Application)
 - Complition Date:-20 February 2023
@@ -18,6 +25,18 @@
 - Complition Date:-21 February 2023
 - Total Hours:- 6 hours
 - Google Drive Link [Drive](https://drive.google.com/file/d/1eLBDxIONdV3MgblOlXAhjsiQv8tUMTs8/view?usp=share_link)
+
+## [Learn MySQL-For Beginners](https://www.udemy.com/course/learn-mysql-for-beginners/) 🔗
+- Course:-Udemy
+- Complition Date:-21 February 2023
+- Total Hours:- 1.5 hours
+- Google Drive Link [Drive](https://drive.google.com/file/d/1epdBWdwqEY8efK-tLQBuwlFZrzHeO_5Y/view?usp=share_link)
+
+## [PHP & MySQL - Certification Course for Beginners](https://www.udemy.com/course/php-mysql-certification-course-for-beginners/) 🔗
+- Course:-Udemy
+- Complition Date:-21 February 2023
+- Total Hours:- 3.5 Hour
+- Google Drive Link [Drive](https://drive.google.com/file/d/1efiHPvBv--8zGCqAqYbGvayxsfKT2JEo/view?usp=share_link)
 
 ## [React JS in Hindi](https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-in-hindi) 🔗
 - Course:-Great Learning
@@ -41,6 +60,18 @@
 - Course:-Great Learning
 - Complition Date:- February 2023
 - Google Drive Link [Drive](https://drive.google.com/file/d/1ffpdOnbSd4qYYTC87-JQdH_NiqX56xwy/view?usp=share_link)
+
+## [Learn and Understand Node.js From Scratch](https://www.udemy.com/course/learn-and-understand-nodejs-from-scratch/) 🔗
+- Course:-Udemy
+- Complition Date:-2 March 2023
+- Total Hours:- 1 Hour
+- Google Drive Link [Drive](https://drive.google.com/file/d/1cxoTzUJQGIOYRsysywxBzU9pa96rlaw2/view?usp=share_link)
+
+## [Data Types In Node.js](https://www.udemy.com/course/nodejs-crash-course/) 🔗
+- Course:-Udemy
+- Complition Date:-2 March 2023
+- Total Minute:- 32 Minutes
+- Google Drive Link [Drive](https://drive.google.com/file/d/1cwF-CSj_KaoxT_0XspASbnmG9818gXVS/view?usp=share_link)
 
 ## [APIs with NodeJs by the Net Ninja](https://drive.google.com/file/d/1fIG26L-B27MT0bZ6TiFsaudYbxz7mHMv/view?usp=share_link) 🔗
 - Course:-Cursa (Application)

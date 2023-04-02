@@ -52,15 +52,7 @@ export default function Home({ setSelectedIndex }: Props) {
               justifyContent={{ xs: "center", sm: "flex-start" }}
             >
               <Typography variant="subtitle1" gutterBottom>
-                Always difficult, always beautiful
-                Better an{' '}
-                <Box fontWeight="fontWeightMedium" display="inline">
-                  oops
-                </Box>{' '}
-                than a{' '}
-                <Box fontWeight="fontWeightMedium" display="inline">
-                  what if
-                </Box>
+                Actively contributes to group projects and motivates members to achieve common targets. An inquisitive individual who is keen to continue learning and expanding their horizons of knowledge. Seeks a flexible and innovative environment that inspires creativity and encourages thinking outside the box to achieve a fruitful output.
               </Typography>
             </Grid>
             <Grid
