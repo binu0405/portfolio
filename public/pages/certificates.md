@@ -62,9 +62,3 @@
 - Course:-Great Learning
 - Complition Date:-February 2023
 - Google Drive Link [Drive](https://drive.google.com/file/d/1euCNl79hMjYOcjuVNIHJrzQGssbv1OHG/view?usp=share_link)
-
-## [Javascript, Bootstrap, & PHP-Certification for begginners](https://www.udemy.com/course/javascript-bootstrap-php-certification-for-beginners/) 🔗
-- Course:-Udemy
-- Complition Date:-21 February 2023
-- Total Hours:- 6 hours
-- Google Drive Link [Drive](https://drive.google.com/file/d/1eLBDxIONdV3MgblOlXAhjsiQv8tUMTs8/view?usp=share_link)
