@@ -52,7 +52,7 @@ export default function Home({ setSelectedIndex }: Props) {
               justifyContent={{ xs: "center", sm: "flex-start" }}
             >
               <Typography variant="subtitle1" gutterBottom>
-                Actively contributes to group project to achieve common targets.
+                MERN Stack Developer
               </Typography>
             </Grid>
             <Grid
