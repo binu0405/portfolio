@@ -1,6 +1,6 @@
 # 📖 Overview
 
-## Summary
+## Personal Info [Get My CV](https://drive.google.com/file/d/1_8eWHn2S4ddr7jBay9aScetNRnDdSyIX/view?usp=sharing)
 
 Software Developer specializing in web application development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including C , Python and JavaScript/TypeScript, React JS, Node JS, MongoDB. Strong background in both accounting/auditing and software development. Mitigated the gap between end users and developers, co-designed and built scalable solutions.
 
@@ -106,3 +106,8 @@ Software Developer specializing in web application development. Experienced with
 **English**: C1
 **Gujarati**: C2
 **Hindi**: Native
+
+## Contact Me
+**Name**: Binal J. Patel
+**E-Mail**: [Binal Patel](binalvasoya2003@gmail.com)
+**LinkedIn**: [Binal Patel](https://www.linkedin.com/in/binal-patel-it-engineer/)
